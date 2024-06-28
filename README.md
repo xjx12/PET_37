@@ -4,8 +4,7 @@
  <img alt="" src="./image/val_acc.png">
  效果如下：
 <video width="320" height="240" controls>  
-  <source src="./image/实机演示视频.mp4" type="video/mp4">  
-  Your browser does not support the video tag.  
+  <source src="./image/实机演示视频.mp4" type="video/mp4">
 </video>
  下面我从模型的训练和部署两个方面讲解一下这个项目。
 ## 一、模型训练  
