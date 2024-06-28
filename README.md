@@ -23,19 +23,25 @@
 - 用Android Studio打开PET_37_for_app文件夹里的android文件夹即可。
 - 将txt文件和onnx文件复制到raw文件夹下。
 <img alt="" src="./image/raw.png">
+
 - 修改MainActivity文件和ExampleInstrumentedTest文件中readLabels()方法和readModel()方法中的标签和模型路径。
 <img alt="" src="./image/MainActivity.png">
 <img alt="" src="./image/exampleinstrumente.png">
+
 - 编译项目
 <img alt="" src="./image/Makeproject.png">
+
 - 编译成功
 <img alt="" src="./image/successmake.png">
+
 - 编译成功后可以在虚拟机上运行一下看一看是否有报错。app运行正常没有报错即可生成apk文件导出。
 - 生成apk文件并导出，点击locate跳转到apk文件夹。
 <img alt="" src="./image/build_apk.png">
 <img alt="" src="./image/locate.png">
+
 - 导出位置
 <img alt="" src="./image/debug.png">
+
 - 如果不想看文字的铁铁也可以看视频，视频地址：https://b23.tv/VF8uhEI
 ## 三、安装运行
 将apk文件发送到安卓手机安装即可在手机上运行。
