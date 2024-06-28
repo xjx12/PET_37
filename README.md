@@ -29,7 +29,7 @@
 - 编译项目
 <img alt="" src="./image/Makeproject.png">
 - 编译成功
-- <img alt="" src="./image/successmake.png">
+<img alt="" src="./image/successmake.png">
 - 编译成功后可以在虚拟机上运行一下看一看是否有报错。app运行正常没有报错即可生成apk文件导出。
 - 生成apk文件并导出，点击locate跳转到apk文件夹。
 <img alt="" src="./image/build_apk.png">
