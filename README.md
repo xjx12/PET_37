@@ -1,9 +1,12 @@
 # PET_37
- 基于ResNet18网络的宠物分类app
+ 基于ResNet18网络的宠物分类app。  
  在验证集上可以达到90.541%的准确率。
  <img alt="" src="./image/val_acc.png">
  效果如下：
- <img alt="" src="./image/实机演示视频.mp4">
+<video width="320" height="240" controls>  
+  <source src="./image/实机演示视频.mp4" type="video/mp4">  
+  Your browser does not support the video tag.  
+</video>
  下面我从模型的训练和部署两个方面讲解一下这个项目。
 ## 一、模型训练  
 ### 1、数据集 
